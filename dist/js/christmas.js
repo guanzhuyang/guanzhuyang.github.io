@@ -71,7 +71,7 @@ $(function(){
 		setTimeout(function(){
 			$mask2.addClass("show");
 			$mask2.css("text-align" , "center");
-			$mask2.text("琼花童鞋");
+			$mask2.text("11111");
 		},2000);
 		setTimeout(function(){
 			$mask3.addClass("show");
